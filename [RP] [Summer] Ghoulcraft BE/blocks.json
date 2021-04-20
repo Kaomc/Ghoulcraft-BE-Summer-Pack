@@ -1,3 +1,56 @@
+//bridge-file-version: #0
 {
-  "format_version": [1, 1, 0]
+	"format_version": [
+		1,
+		1,
+		0
+	],
+	"ghoulcraft:loungechair_white": {
+		"sound": "wood"
+	},
+	"ghoulcraft:loungechair_green": {
+		"sound": "wood"
+	},
+	"ghoulcraft:hammock_green": {
+		"sound": "wood"
+	},
+	"ghoulcraft:hammock_blue": {
+		"sound": "wood"
+	},
+	"ghoulcraft:beachchair_blue": {
+		"sound": "wood"
+	},
+	"ghoulcraft:beachchair_lblue": {
+		"sound": "wood"
+	},
+	"ghoulcraft:beachchair_yellow": {
+		"sound": "wood"
+	},
+	"ghoulcraft:beachchair_lime": {
+		"sound": "wood"
+	},
+	"ghoulcraft:beachchair_pink": {
+		"sound": "wood"
+	},
+	"ghoulcraft:tikitorch": {
+		"sound": "wood"
+	},
+	"ghoulcraft:meat_grill": {
+		"sound": "metal"
+	},
+	"ghoulcraft:meat_grill_empty": {
+		"sound": "metal"
+	},
+	"ghoulcraft:beachumbrella_blue": {
+		"sound": "bamboo"
+	},
+	"ghoulcraft:beachumbrella_lime": {
+		"sound": "bamboo"
+	},
+	"ghoulcraft:beachumbrella_red": {
+		"sound": "bamboo"
+	},
+	"ghoulcraft:beachumbrella_yellow": {
+		"sound": "bamboo"
+	}
 }

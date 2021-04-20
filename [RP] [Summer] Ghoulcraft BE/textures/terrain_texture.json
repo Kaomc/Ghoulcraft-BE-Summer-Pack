@@ -1,7 +1,89 @@
+//bridge-file-version: #2
 {
-  "resource_pack_name": "bridgeRP",
-  "texture_name": "atlas.terrain",
-  "padding": 8,
-  "num_mip_levels": 4,
-  "texture_data": {}
+	"resource_pack_name": "bridgeRP",
+	"texture_name": "atlas.terrain",
+	"padding": 8,
+	"num_mip_levels": 4,
+	"texture_data": {
+		"loungechair_white": {
+			"textures": [
+				"textures/block/loungechair_white"
+			]
+		},
+		"loungechair_green": {
+			"textures": [
+				"textures/block/loungechair_green"
+			]
+		},
+		"hammock_blue": {
+			"textures": [
+				"textures/block/hammock_blue"
+			]
+		},
+		"hammock_green": {
+			"textures": [
+				"textures/block/hammock_green"
+			]
+		},
+		"beachchair_blue": {
+			"textures": [
+				"textures/block/beachchair_blue"
+			]
+		},
+		"beachchair_lblue": {
+			"textures": [
+				"textures/block/beachchair_lblue"
+			]
+		},
+		"beachchair_pink": {
+			"textures": [
+				"textures/block/beachchair_pink"
+			]
+		},
+		"beachchair_yellow": {
+			"textures": [
+				"textures/block/beachchair_yellow"
+			]
+		},
+		"beachchair_lime": {
+			"textures": [
+				"textures/block/beachchair_lime"
+			]
+		},
+		"tikitorch1": {
+			"textures": [
+				"textures/block/tikitorch1"
+			]
+		},
+		"bu_blue": {
+			"textures": [
+				"textures/block/bu_blue"
+			]
+		},
+		"bu_lime": {
+			"textures": [
+				"textures/block/bu_lime"
+			]
+		},
+		"bu_red": {
+			"textures": [
+				"textures/block/bu_red"
+			]
+		},
+		"bu_yellow": {
+			"textures": [
+				"textures/block/bu_yellow"
+			]
+		},
+		"grill1": {
+			"textures": [
+				"textures/block/grill1"
+			]
+		},
+		"grill2": {
+			"textures": [
+				"textures/block/grill2"
+			]
+		}
+	}
 }

@@ -1,2 +1,43 @@
-pack.name=[RP] [Summer] Ghoulcraft BE
-pack.description=a
+##bridge-file-version: #2
+####=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+##Created By: Kao
+##Contact: https://beacons.page/kaomc
+##Translations needs express permission from MissGhouls/Kao.
+##Do not redistribute & claim as your own.
+##Re-printing is not allowed.
+##For more info, refer to [Readme.txt] & [GhoulcraftTOU.txt]
+##=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+##Lounge Chairs
+
+tile.ghoulcraft:loungechair_green.name=Green Lounge Chair
+tile.ghoulcraft:loungechair_white.name=White Lounge Chair
+
+##Hammocks
+
+tile.ghoulcraft:hammock_blue.name=Blue Lounge Chair
+tile.ghoulcraft:hammock_green.name=Green Lounge Chair
+
+##Beach Chairs
+
+tile.ghoulcraft:beachchair_blue.name=Blue Beach Chair
+tile.ghoulcraft:beachchair_lblue.name=Light Blue Beach Chair
+tile.ghoulcraft:beachchair_lime.name=Lime Beach Chair
+tile.ghoulcraft:beachchair_pink.name=Pink Beach Chair
+tile.ghoulcraft:beachchair_yellow.name=Yellow Beach Chair
+
+##Tiki Torch
+
+tile.ghoulcraft:tikitorch.name=Tiki Torch
+
+##Beach Umbrella
+
+tile.ghoulcraft:beachumbrella_blue.name=Blue Beach Umbrella
+tile.ghoulcraft:beachumbrella_red.name=Red Beach Umbrella
+tile.ghoulcraft:beachumbrella_lime.name=Lime Beach Umbrella
+tile.ghoulcraft:beachumbrella_yellow.name=Yellow Beach Umbrella
+
+##Grills
+
+tile.ghoulcraft:meat_grill.name=Meat Grill
+tile.ghoulcraft:meat_grill_empty.name=Empty Meat Grill

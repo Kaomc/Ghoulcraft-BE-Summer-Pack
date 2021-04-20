@@ -1,3 +1,4 @@
+//bridge-file-version: #0
 [
 	"textures/block/nox/black_carpet",
 	"textures/block/nox/blue_carpet",
@@ -126,5 +127,6 @@
 	"textures/block/vanillaarchive/red_concrete",
 	"textures/block/vanillaarchive/white_concrete",
 	"textures/block/vanillaarchive/yellow_concrete",
+	"textures/block/vanillaarchive/coal_block",
 	{}
 ]
