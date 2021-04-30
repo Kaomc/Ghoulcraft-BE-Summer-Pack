@@ -1,4 +1,4 @@
-//bridge-file-version: #0
+//bridge-file-version: #1
 {
 	"minecraft:block": {
 		"components": {
@@ -100,5 +100,5 @@
 			}
 		}
 	},
-	"format_version": "1.16.220"
+	"format_version": "1.16.200"
 }
