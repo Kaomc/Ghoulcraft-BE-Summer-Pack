@@ -1,6 +1,7 @@
-##bridge-file-version: #2
+##bridge-file-version: #3
 ####=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 ##Created By: Kao
+##Language File Created By: fuyuki.wt
 ##Contact: https://beacons.page/kaomc
 ##Translations needs express permission from MissGhouls/Kao.
 ##Do not redistribute & claim as your own.
@@ -26,10 +27,6 @@ tile.ghoulcraft:beachchair_lime.name=Lime Beach Chair
 tile.ghoulcraft:beachchair_pink.name=Pink Beach Chair
 tile.ghoulcraft:beachchair_yellow.name=Yellow Beach Chair
 
-##Tiki Torch
-
-tile.ghoulcraft:tikitorch.name=Tiki Torch
-
 ##Beach Umbrella
 
 tile.ghoulcraft:beachumbrella_blue.name=Blue Beach Umbrella
@@ -41,3 +38,46 @@ tile.ghoulcraft:beachumbrella_yellow.name=Yellow Beach Umbrella
 
 tile.ghoulcraft:meat_grill.name=Meat Grill
 tile.ghoulcraft:meat_grill_empty.name=Empty Meat Grill
+
+##Buckets
+
+tile.ghoulcraft:bucket_blue.name=Blue Bucket
+tile.ghoulcraft:bucket_purple.name=Purple Bucket
+tile.ghoulcraft:bucket_red.name=Red Bucket
+
+##Coolers
+
+tile.ghoulcraft:cooler_blue.name=Blue Cooler
+tile.ghoulcraft:cooler_blue_open.name=Blue Cooler - Open
+tile.ghoulcraft:cooler_red.name=Red Cooler
+tile.ghoulcraft:cooler_red_open.name=Red Cooler - Open
+
+##Picnic Tables
+
+tile.ghoulcraft:picnictable_acacia.name=Acacia Picnic Table
+tile.ghoulcraft:picnictable_birch.name=Birch Picnic Table
+tile.ghoulcraft:picnictable_dark.name=Dark Oak Picnic Table
+tile.ghoulcraft:picnictable_jungle.name=Jungle Picnic Table
+tile.ghoulcraft:picnictable_oak.name=Oak Picnic Table
+tile.ghoulcraft:picnictable_spruce.name=Spruce Picnic Table
+
+##Plastic Shovels
+
+tile.ghoulcraft:plastic_shovel1.name=Plastic Shovel - Grounded
+tile.ghoulcraft:plastic_shovel2.name=Plastic Shovel - Standing
+
+##Misc.
+
+tile.ghoulcraft:tikitorch.name=Tiki Torch
+tile.ghoulcraft:sandcastle.name=Sand Castle
+tile.ghoulcraft:tray_of_lemonade.name=Tray Of Lemonade
+
+##Sandboxes
+
+tile.ghoulcraft:sandbox_acacia.name=Acacia Sandbox
+tile.ghoulcraft:sandbox_birch.name=Birch Sandbox
+tile.ghoulcraft:sandbox_dark.name=Dark Oak Sandbox
+tile.ghoulcraft:sandbox_jungle.name=Jungle Sandbox
+tile.ghoulcraft:sandbox_oak.name=Oak Sandbox
+tile.ghoulcraft:sandbox_spruce.name=Spruce Sandbox
+tile.ghoulcraft:sandbox_colorful.name=Colorful Sandbox
