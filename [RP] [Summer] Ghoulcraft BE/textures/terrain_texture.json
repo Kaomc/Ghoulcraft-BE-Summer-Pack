@@ -1,4 +1,4 @@
-//bridge-file-version: #2
+//bridge-file-version: #3
 {
 	"resource_pack_name": "bridgeRP",
 	"texture_name": "atlas.terrain",
@@ -83,6 +83,81 @@
 		"grill2": {
 			"textures": [
 				"textures/block/grill2"
+			]
+		},
+		"picnictable_acacia": {
+			"textures": [
+				"textures/block/picnictable_acacia"
+			]
+		},
+		"picnictable_birch": {
+			"textures": [
+				"textures/block/picnictable_birch"
+			]
+		},
+		"picnictable_dark": {
+			"textures": [
+				"textures/block/picnictable_dark"
+			]
+		},
+		"picnictable_jungle": {
+			"textures": [
+				"textures/block/picnictable_jungle"
+			]
+		},
+		"picnictable_oak": {
+			"textures": [
+				"textures/block/picnictable_oak"
+			]
+		},
+		"picnictable_spruce": {
+			"textures": [
+				"textures/block/picnictable_spruce"
+			]
+		},
+		"bucket_blue": {
+			"textures": [
+				"textures/block/bucket_blue"
+			]
+		},
+		"bucket_purple": {
+			"textures": [
+				"textures/block/bucket_purple"
+			]
+		},
+		"bucket_red": {
+			"textures": [
+				"textures/block/bucket_red"
+			]
+		},
+		"cooler_blue": {
+			"textures": [
+				"textures/block/cooler_blue"
+			]
+		},
+		"cooler_blue_open": {
+			"textures": [
+				"textures/block/cooler_blue_open"
+			]
+		},
+		"cooler_red": {
+			"textures": [
+				"textures/block/cooler_red"
+			]
+		},
+		"cooler_red_open": {
+			"textures": [
+				"textures/block/cooler_red_open"
+			]
+		},
+		"ghc_yellow_concrete": {
+			"textures": [
+				"textures/block/vanillaarchive/yellow_concrete"
+			]
+		},
+		"lemonade_tray_set_blue": {
+			"textures": [
+				"textures/block/lemonade_tray_set_blue"
 			]
 		}
 	}
