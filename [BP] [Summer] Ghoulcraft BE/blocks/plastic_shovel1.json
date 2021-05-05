@@ -1,11 +1,11 @@
-//bridge-file-version: #20
+//bridge-file-version: #21
 {
 	"minecraft:block": {
 		"components": {
 			"minecraft:geometry": "geometry.plasticshovel1",
 			"minecraft:material_instances": {
 				"*": {
-					"texture": "yellow_concrete",
+					"texture": "ghc_yellow_concrete",
 					"render_method": "opaque"
 				}
 			},
