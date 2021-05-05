@@ -1,4 +1,4 @@
-//bridge-file-version: #0
+//bridge-file-version: #1
 {
 	"format_version": [
 		1,
@@ -52,5 +52,59 @@
 	},
 	"ghoulcraft:beachumbrella_yellow": {
 		"sound": "bamboo"
+	},
+	"ghoulcraft:cooler_red": {
+		"sound": "metal"
+	},
+	"ghoulcraft:cooler_blue": {
+		"sound": "metal"
+	},
+	"ghoulcraft:cooler_red_open": {
+		"sound": "metal"
+	},
+	"ghoulcraft:cooler_blue_open": {
+		"sound": "metal"
+	},
+	"ghoulcraft:tray_of_lemonade": {
+		"sound": "glass"
+	},
+	"ghoulcraft:picnictable_acacia": {
+		"sound": "wood"
+	},
+	"ghoulcraft:picnictable_birch": {
+		"sound": "wood"
+	},
+	"ghoulcraft:picnictable_dark": {
+		"sound": "wood"
+	},
+	"ghoulcraft:picnictable_jungle": {
+		"sound": "wood"
+	},
+	"ghoulcraft:picnictable_oak": {
+		"sound": "wood"
+	},
+	"ghoulcraft:picnictable_spruce": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sandcastle": {
+		"sound": "gravel"
+	},
+	"ghoulcraft:bucket_red": {
+		"sound": "metal"
+	},
+	"ghoulcraft:bucket_purple": {
+		"sound": "metal"
+	},
+	"ghoulcraft:bucket_blue": {
+		"sound": "metal"
+	},
+	"ghoulcraft:plastic_shovel1": {
+		"sound": "metal"
+	},
+	"ghoulcraft:plastic_shovel2": {
+		"sound": "metal"
+	},
+	"ghoulcraft:sandbox_acacia": {
+		"sound": "wood"
 	}
 }
