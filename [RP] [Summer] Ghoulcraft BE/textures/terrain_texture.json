@@ -1,4 +1,4 @@
-//bridge-file-version: #3
+//bridge-file-version: #5
 {
 	"resource_pack_name": "bridgeRP",
 	"texture_name": "atlas.terrain",
@@ -158,6 +158,76 @@
 		"lemonade_tray_set_blue": {
 			"textures": [
 				"textures/block/lemonade_tray_set_blue"
+			]
+		},
+		"sandbox_acacia": {
+			"textures": [
+				"textures/block/sandbox_acacia"
+			]
+		},
+		"sandbox_birch": {
+			"textures": [
+				"textures/block/sandbox_birch"
+			]
+		},
+		"sandbox_dark": {
+			"textures": [
+				"textures/block/sandbox_dark"
+			]
+		},
+		"sandbox_jungle": {
+			"textures": [
+				"textures/block/sandbox_jungle"
+			]
+		},
+		"sandbox_oak": {
+			"textures": [
+				"textures/block/sandbox_oak"
+			]
+		},
+		"sandbox_spruce": {
+			"textures": [
+				"textures/block/sandbox_spruce"
+			]
+		},
+		"sandbox_colorful": {
+			"textures": [
+				"textures/block/sandbox_colorful"
+			]
+		},
+		"seesaw_acacia": {
+			"textures": [
+				"textures/block/seesaw_acacia"
+			]
+		},
+		"seesaw_birch": {
+			"textures": [
+				"textures/block/seesaw_birch"
+			]
+		},
+		"seesaw_dark": {
+			"textures": [
+				"textures/block/seesaw_dark"
+			]
+		},
+		"seesaw_jungle": {
+			"textures": [
+				"textures/block/seesaw_jungle"
+			]
+		},
+		"seesaw_oak": {
+			"textures": [
+				"textures/block/seesaw_oak"
+			]
+		},
+		"seesaw_spruce": {
+			"textures": [
+				"textures/block/seesaw_spruce"
+			]
+		},
+		"seesaw_colorful": {
+			"textures": [
+				"textures/block/seesaw_colorful"
 			]
 		}
 	}
