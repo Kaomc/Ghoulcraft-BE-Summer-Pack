@@ -1,4 +1,4 @@
-##bridge-file-version: #3
+##bridge-file-version: #4
 ####=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 ##Created By: Kao
 ##Language File Created By: fuyuki.wt
@@ -81,3 +81,13 @@ tile.ghoulcraft:sandbox_jungle.name=Jungle Sandbox
 tile.ghoulcraft:sandbox_oak.name=Oak Sandbox
 tile.ghoulcraft:sandbox_spruce.name=Spruce Sandbox
 tile.ghoulcraft:sandbox_colorful.name=Colorful Sandbox
+
+##Seesaws
+
+tile.ghoulcraft:seesaw_acacia.name=Acacia Seesaw
+tile.ghoulcraft:seesaw_birch.name=Birch Seesaw
+tile.ghoulcraft:seesaw_dark.name=Dark Oak Seesaw
+tile.ghoulcraft:seesaw_jungle.name=Jungle Seesaw
+tile.ghoulcraft:seesaw_oak.name=Oak Seesaw
+tile.ghoulcraft:seesaw_spruce.name=Spruce Seesaw
+tle.tile.ghoulcraft:seesaw_colorful.name=Colorful Seesaw
