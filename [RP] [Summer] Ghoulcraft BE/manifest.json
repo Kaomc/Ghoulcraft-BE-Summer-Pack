@@ -1,13 +1,13 @@
-//bridge-file-version: #3
+//bridge-file-version: #5
 {
 	"format_version": 2,
 	"header": {
-		"name": "[Summer] Ghoulcraft BE - Beta-Build 0.1",
-		"description": "§l§3Ignore the warning! §r- Version: 0.1-beta",
+		"name": "[Summer] Ghoulcraft BE v1.0",
+		"description": "§l§3Ignore the warning! §r- Version: 1.0",
 		"uuid": "478e4052-9435-4c04-ab3d-010cbe729df6",
 		"version": [
-			0,
 			1,
+			0,
 			0
 		],
 		"min_engine_version": [
@@ -21,8 +21,8 @@
 			"type": "resources",
 			"uuid": "8cb3e4b0-d856-4d27-97a4-a777337c23ec",
 			"version": [
-				0,
 				1,
+				0,
 				0
 			]
 		}
@@ -30,8 +30,8 @@
 	"dependencies": [
 		{
 			"version": [
-				0,
 				1,
+				0,
 				0
 			],
 			"uuid": "0c9aee65-6086-4024-885b-c029e8c762dd"
