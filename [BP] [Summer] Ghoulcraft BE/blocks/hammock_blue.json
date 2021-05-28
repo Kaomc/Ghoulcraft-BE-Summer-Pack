@@ -1,4 +1,4 @@
-//bridge-file-version: #1
+//bridge-file-version: #2
 {
 	"minecraft:block": {
 		"components": {
@@ -14,9 +14,9 @@
 			},
 			"minecraft:pick_collision": {
 				"origin": [
+					-8,
 					0,
-					0,
-					0
+					-8
 				],
 				"size": [
 					16,
@@ -26,9 +26,9 @@
 			},
 			"minecraft:entity_collision": {
 				"origin": [
+					-8,
 					0,
-					0,
-					0
+					-8
 				],
 				"size": [
 					16,

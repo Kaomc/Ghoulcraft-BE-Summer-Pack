@@ -1,4 +1,4 @@
-##bridge-file-version: #4
+##bridge-file-version: #10
 ####=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 ##Created By: Kao
 ##Language File Created By: fuyuki.wt
@@ -13,11 +13,13 @@
 
 tile.ghoulcraft:loungechair_green.name=Green Lounge Chair
 tile.ghoulcraft:loungechair_white.name=White Lounge Chair
+tile.ghoulcraft:loungechair_blue.name=Blue Lounge Chair
+tile.ghoulcraft:loungechair_plain.name=Plain Lounge Chair
 
 ##Hammocks
 
-tile.ghoulcraft:hammock_blue.name=Blue Lounge Chair
-tile.ghoulcraft:hammock_green.name=Green Lounge Chair
+tile.ghoulcraft:hammock_blue.name=Blue Hammock
+tile.ghoulcraft:hammock_green.name=Green Hammock
 
 ##Beach Chairs
 
@@ -90,4 +92,44 @@ tile.ghoulcraft:seesaw_dark.name=Dark Oak Seesaw
 tile.ghoulcraft:seesaw_jungle.name=Jungle Seesaw
 tile.ghoulcraft:seesaw_oak.name=Oak Seesaw
 tile.ghoulcraft:seesaw_spruce.name=Spruce Seesaw
-tle.tile.ghoulcraft:seesaw_colorful.name=Colorful Seesaw
+tile.ghoulcraft:seesaw_colorful.name=Colorful Seesaw
+
+##Merry Go Arounds
+
+tile.ghoulcraft:merrygo_acacia.name=Acacia Merry Go Around
+tile.ghoulcraft:merrygo_birch.name=Birch Merry Go Around
+tile.ghoulcraft:merrygo_dark.name=Dark Oak Merry Go Around
+tile.ghoulcraft:merrygo_jungle.name=Jungle Merry Go Around
+tile.ghoulcraft:merrygo_oak.name=Oak Merry Go Around
+tile.ghoulcraft:merrygo_spruce.name=Spruce Merry Go Around
+tile.ghoulcraft:merrygo_colorful.name=Colorful Merry Go Around
+
+##Slides
+
+tile.ghoulcraft:slide_acacia.name=Acacia Slide
+tile.ghoulcraft:slide_birch.name=Birch Slide
+tile.ghoulcraft:slide_dark.name=Dark Slide
+tile.ghoulcraft:slide_jungle.name=Jungle Slide
+tile.ghoulcraft:slide_oak.name=Oak Slide
+tile.ghoulcraft:slide_spruce.name=Spruce Slide
+tile.ghoulcraft:slide_colorful.name=Colorful Slide
+
+##Swingsets
+
+tile.ghoulcraft:swingset_acacia.name=Acacia Swingset
+tile.ghoulcraft:swingset_birch.name=Birch Swingset
+tile.ghoulcraft:swingset_dark.name=Dark Oak Swingset
+tile.ghoulcraft:swingset_jungle.name=Jungle Swingset
+tile.ghoulcraft:swingset_oak.name=Oak Swingset
+tile.ghoulcraft:swingset_spruce.name=Spruce Swingset
+tile.ghoulcraft:swingset_colorful.name=Colorful Swingset
+
+##Kiddiepools
+
+tile.ghoulcraft:kiddiepool1.name=Circle Kiddie Pool
+tile.ghoulcraft:kiddiepool2.name=Rectangle Kiddie Pool
+
+##Tents
+
+tile.ghoulcraft:tent1_canvas.name=Canvas Tent
+tile.ghoulcraft:tent1_green.name=Green Tent

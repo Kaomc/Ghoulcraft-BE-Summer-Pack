@@ -1,4 +1,4 @@
-//bridge-file-version: #5
+//bridge-file-version: #11
 {
 	"resource_pack_name": "bridgeRP",
 	"texture_name": "atlas.terrain",
@@ -228,6 +228,136 @@
 		"seesaw_colorful": {
 			"textures": [
 				"textures/block/seesaw_colorful"
+			]
+		},
+		"merrygo_acacia": {
+			"textures": [
+				"textures/block/merrygo_acacia"
+			]
+		},
+		"merrygo_birch": {
+			"textures": [
+				"textures/block/merrygo_birch"
+			]
+		},
+		"merrygo_dark": {
+			"textures": [
+				"textures/block/merrygo_dark"
+			]
+		},
+		"merrygo_jungle": {
+			"textures": [
+				"textures/block/merrygo_jungle"
+			]
+		},
+		"merrygo_oak": {
+			"textures": [
+				"textures/block/merrygo_oak"
+			]
+		},
+		"merrygo_spruce": {
+			"textures": [
+				"textures/block/merrygo_spruce"
+			]
+		},
+		"merrygo_colorful": {
+			"textures": [
+				"textures/block/merrygo_colorful"
+			]
+		},
+		"slide_acacia": {
+			"textures": [
+				"textures/block/slide_acacia"
+			]
+		},
+		"slide_birch": {
+			"textures": [
+				"textures/block/slide_birch"
+			]
+		},
+		"slide_dark": {
+			"textures": [
+				"textures/block/slide_dark"
+			]
+		},
+		"slide_jungle": {
+			"textures": [
+				"textures/block/slide_jungle"
+			]
+		},
+		"slide_oak": {
+			"textures": [
+				"textures/block/slide_oak"
+			]
+		},
+		"slide_spruce": {
+			"textures": [
+				"textures/block/slide_spruce"
+			]
+		},
+		"slide_colorful": {
+			"textures": [
+				"textures/block/slide_colorful"
+			]
+		},
+		"swingset_acacia": {
+			"textures": [
+				"textures/block/swingset_acacia"
+			]
+		},
+		"swingset_birch": {
+			"textures": [
+				"textures/block/swingset_birch"
+			]
+		},
+		"swingset_dark": {
+			"textures": [
+				"textures/block/swingset_dark"
+			]
+		},
+		"swingset_jungle": {
+			"textures": [
+				"textures/block/swingset_jungle"
+			]
+		},
+		"swingset_oak": {
+			"textures": [
+				"textures/block/swingset_oak"
+			]
+		},
+		"swingset_spruce": {
+			"textures": [
+				"textures/block/swingset_spruce"
+			]
+		},
+		"swingset_colorful": {
+			"textures": [
+				"textures/block/swingset_colorful"
+			]
+		},
+		"kiddiepool": {
+			"textures": [
+				"textures/block/kiddiepool"
+			]
+		},
+		"tent_canvas": {
+			"textures": [
+				"textures/block/tent_canvas"
+			]
+		},
+		"tent_green": {
+			"textures": [
+				"textures/block/tent_green"
+			]
+		},
+		"loungechair_blue": {
+			"textures": [
+				"textures/block/loungechair_blue"
+			]
+		},
+		"loungechair_plain": {
+			"textures": [
+				"textures/block/loungechair_plain"
 			]
 		}
 	}
