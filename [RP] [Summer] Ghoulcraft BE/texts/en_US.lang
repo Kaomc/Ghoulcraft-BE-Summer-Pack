@@ -1,4 +1,4 @@
-##bridge-file-version: #10
+##bridge-file-version: #11
 ####=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 ##Created By: Kao
 ##Language File Created By: fuyuki.wt
@@ -133,3 +133,7 @@ tile.ghoulcraft:kiddiepool2.name=Rectangle Kiddie Pool
 
 tile.ghoulcraft:tent1_canvas.name=Canvas Tent
 tile.ghoulcraft:tent1_green.name=Green Tent
+
+##UI
+
+tip.tent= §3Tip§r: Tents should be placed 1 block above the ground, or placed on the bottom half - on top of a bed. §cIt should not be placed directly on the ground!§r
