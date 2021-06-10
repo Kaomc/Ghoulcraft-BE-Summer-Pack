@@ -1,4 +1,4 @@
-//bridge-file-version: #13
+//bridge-file-version: #15
 {
 	"minecraft:block": {
 		"components": {
@@ -6,7 +6,7 @@
 			"minecraft:material_instances": {
 				"*": {
 					"texture": "lemonade_tray_set_blue",
-					"render_method": "alpha_test"
+					"render_method": "opaque"
 				}
 			},
 			"minecraft:on_player_placing": {
