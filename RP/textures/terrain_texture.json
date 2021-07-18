@@ -1,0 +1,364 @@
+//bridge-file-version: #11
+{
+	"resource_pack_name": "bridgeRP",
+	"texture_name": "atlas.terrain",
+	"padding": 8,
+	"num_mip_levels": 4,
+	"texture_data": {
+		"loungechair_white": {
+			"textures": [
+				"textures/block/loungechair_white"
+			]
+		},
+		"loungechair_green": {
+			"textures": [
+				"textures/block/loungechair_green"
+			]
+		},
+		"hammock_blue": {
+			"textures": [
+				"textures/block/hammock_blue"
+			]
+		},
+		"hammock_green": {
+			"textures": [
+				"textures/block/hammock_green"
+			]
+		},
+		"beachchair_blue": {
+			"textures": [
+				"textures/block/beachchair_blue"
+			]
+		},
+		"beachchair_lblue": {
+			"textures": [
+				"textures/block/beachchair_lblue"
+			]
+		},
+		"beachchair_pink": {
+			"textures": [
+				"textures/block/beachchair_pink"
+			]
+		},
+		"beachchair_yellow": {
+			"textures": [
+				"textures/block/beachchair_yellow"
+			]
+		},
+		"beachchair_lime": {
+			"textures": [
+				"textures/block/beachchair_lime"
+			]
+		},
+		"tikitorch1": {
+			"textures": [
+				"textures/block/tikitorch1"
+			]
+		},
+		"bu_blue": {
+			"textures": [
+				"textures/block/bu_blue"
+			]
+		},
+		"bu_lime": {
+			"textures": [
+				"textures/block/bu_lime"
+			]
+		},
+		"bu_red": {
+			"textures": [
+				"textures/block/bu_red"
+			]
+		},
+		"bu_yellow": {
+			"textures": [
+				"textures/block/bu_yellow"
+			]
+		},
+		"grill1": {
+			"textures": [
+				"textures/block/grill1"
+			]
+		},
+		"grill2": {
+			"textures": [
+				"textures/block/grill2"
+			]
+		},
+		"picnictable_acacia": {
+			"textures": [
+				"textures/block/picnictable_acacia"
+			]
+		},
+		"picnictable_birch": {
+			"textures": [
+				"textures/block/picnictable_birch"
+			]
+		},
+		"picnictable_dark": {
+			"textures": [
+				"textures/block/picnictable_dark"
+			]
+		},
+		"picnictable_jungle": {
+			"textures": [
+				"textures/block/picnictable_jungle"
+			]
+		},
+		"picnictable_oak": {
+			"textures": [
+				"textures/block/picnictable_oak"
+			]
+		},
+		"picnictable_spruce": {
+			"textures": [
+				"textures/block/picnictable_spruce"
+			]
+		},
+		"bucket_blue": {
+			"textures": [
+				"textures/block/bucket_blue"
+			]
+		},
+		"bucket_purple": {
+			"textures": [
+				"textures/block/bucket_purple"
+			]
+		},
+		"bucket_red": {
+			"textures": [
+				"textures/block/bucket_red"
+			]
+		},
+		"cooler_blue": {
+			"textures": [
+				"textures/block/cooler_blue"
+			]
+		},
+		"cooler_blue_open": {
+			"textures": [
+				"textures/block/cooler_blue_open"
+			]
+		},
+		"cooler_red": {
+			"textures": [
+				"textures/block/cooler_red"
+			]
+		},
+		"cooler_red_open": {
+			"textures": [
+				"textures/block/cooler_red_open"
+			]
+		},
+		"ghc_yellow_concrete": {
+			"textures": [
+				"textures/block/vanillaarchive/yellow_concrete"
+			]
+		},
+		"lemonade_tray_set_blue": {
+			"textures": [
+				"textures/block/lemonade_tray_set_blue"
+			]
+		},
+		"sandbox_acacia": {
+			"textures": [
+				"textures/block/sandbox_acacia"
+			]
+		},
+		"sandbox_birch": {
+			"textures": [
+				"textures/block/sandbox_birch"
+			]
+		},
+		"sandbox_dark": {
+			"textures": [
+				"textures/block/sandbox_dark"
+			]
+		},
+		"sandbox_jungle": {
+			"textures": [
+				"textures/block/sandbox_jungle"
+			]
+		},
+		"sandbox_oak": {
+			"textures": [
+				"textures/block/sandbox_oak"
+			]
+		},
+		"sandbox_spruce": {
+			"textures": [
+				"textures/block/sandbox_spruce"
+			]
+		},
+		"sandbox_colorful": {
+			"textures": [
+				"textures/block/sandbox_colorful"
+			]
+		},
+		"seesaw_acacia": {
+			"textures": [
+				"textures/block/seesaw_acacia"
+			]
+		},
+		"seesaw_birch": {
+			"textures": [
+				"textures/block/seesaw_birch"
+			]
+		},
+		"seesaw_dark": {
+			"textures": [
+				"textures/block/seesaw_dark"
+			]
+		},
+		"seesaw_jungle": {
+			"textures": [
+				"textures/block/seesaw_jungle"
+			]
+		},
+		"seesaw_oak": {
+			"textures": [
+				"textures/block/seesaw_oak"
+			]
+		},
+		"seesaw_spruce": {
+			"textures": [
+				"textures/block/seesaw_spruce"
+			]
+		},
+		"seesaw_colorful": {
+			"textures": [
+				"textures/block/seesaw_colorful"
+			]
+		},
+		"merrygo_acacia": {
+			"textures": [
+				"textures/block/merrygo_acacia"
+			]
+		},
+		"merrygo_birch": {
+			"textures": [
+				"textures/block/merrygo_birch"
+			]
+		},
+		"merrygo_dark": {
+			"textures": [
+				"textures/block/merrygo_dark"
+			]
+		},
+		"merrygo_jungle": {
+			"textures": [
+				"textures/block/merrygo_jungle"
+			]
+		},
+		"merrygo_oak": {
+			"textures": [
+				"textures/block/merrygo_oak"
+			]
+		},
+		"merrygo_spruce": {
+			"textures": [
+				"textures/block/merrygo_spruce"
+			]
+		},
+		"merrygo_colorful": {
+			"textures": [
+				"textures/block/merrygo_colorful"
+			]
+		},
+		"slide_acacia": {
+			"textures": [
+				"textures/block/slide_acacia"
+			]
+		},
+		"slide_birch": {
+			"textures": [
+				"textures/block/slide_birch"
+			]
+		},
+		"slide_dark": {
+			"textures": [
+				"textures/block/slide_dark"
+			]
+		},
+		"slide_jungle": {
+			"textures": [
+				"textures/block/slide_jungle"
+			]
+		},
+		"slide_oak": {
+			"textures": [
+				"textures/block/slide_oak"
+			]
+		},
+		"slide_spruce": {
+			"textures": [
+				"textures/block/slide_spruce"
+			]
+		},
+		"slide_colorful": {
+			"textures": [
+				"textures/block/slide_colorful"
+			]
+		},
+		"swingset_acacia": {
+			"textures": [
+				"textures/block/swingset_acacia"
+			]
+		},
+		"swingset_birch": {
+			"textures": [
+				"textures/block/swingset_birch"
+			]
+		},
+		"swingset_dark": {
+			"textures": [
+				"textures/block/swingset_dark"
+			]
+		},
+		"swingset_jungle": {
+			"textures": [
+				"textures/block/swingset_jungle"
+			]
+		},
+		"swingset_oak": {
+			"textures": [
+				"textures/block/swingset_oak"
+			]
+		},
+		"swingset_spruce": {
+			"textures": [
+				"textures/block/swingset_spruce"
+			]
+		},
+		"swingset_colorful": {
+			"textures": [
+				"textures/block/swingset_colorful"
+			]
+		},
+		"kiddiepool": {
+			"textures": [
+				"textures/block/kiddiepool"
+			]
+		},
+		"tent_canvas": {
+			"textures": [
+				"textures/block/tent_canvas"
+			]
+		},
+		"tent_green": {
+			"textures": [
+				"textures/block/tent_green"
+			]
+		},
+		"loungechair_blue": {
+			"textures": [
+				"textures/block/loungechair_blue"
+			]
+		},
+		"loungechair_plain": {
+			"textures": [
+				"textures/block/loungechair_plain"
+			]
+		}
+	}
+}

@@ -1,0 +1,155 @@
+//bridge-file-version: #3
+{
+	"format_version": [
+		1,
+		1,
+		0
+	],
+	"ghoulcraft:loungechair_white": {
+		"sound": "wood"
+	},
+	"ghoulcraft:loungechair_green": {
+		"sound": "wood"
+	},
+	"ghoulcraft:hammock_green": {
+		"sound": "wood"
+	},
+	"ghoulcraft:hammock_blue": {
+		"sound": "wood"
+	},
+	"ghoulcraft:beachchair_blue": {
+		"sound": "wood"
+	},
+	"ghoulcraft:beachchair_lblue": {
+		"sound": "wood"
+	},
+	"ghoulcraft:beachchair_yellow": {
+		"sound": "wood"
+	},
+	"ghoulcraft:beachchair_lime": {
+		"sound": "wood"
+	},
+	"ghoulcraft:beachchair_pink": {
+		"sound": "wood"
+	},
+	"ghoulcraft:tikitorch": {
+		"sound": "wood"
+	},
+	"ghoulcraft:meat_grill": {
+		"sound": "metal"
+	},
+	"ghoulcraft:meat_grill_empty": {
+		"sound": "metal"
+	},
+	"ghoulcraft:beachumbrella_blue": {
+		"sound": "bamboo"
+	},
+	"ghoulcraft:beachumbrella_lime": {
+		"sound": "bamboo"
+	},
+	"ghoulcraft:beachumbrella_red": {
+		"sound": "bamboo"
+	},
+	"ghoulcraft:beachumbrella_yellow": {
+		"sound": "bamboo"
+	},
+	"ghoulcraft:cooler_red": {
+		"sound": "metal"
+	},
+	"ghoulcraft:cooler_blue": {
+		"sound": "metal"
+	},
+	"ghoulcraft:cooler_red_open": {
+		"sound": "metal"
+	},
+	"ghoulcraft:cooler_blue_open": {
+		"sound": "metal"
+	},
+	"ghoulcraft:tray_of_lemonade": {
+		"sound": "glass"
+	},
+	"ghoulcraft:picnictable_acacia": {
+		"sound": "wood"
+	},
+	"ghoulcraft:picnictable_birch": {
+		"sound": "wood"
+	},
+	"ghoulcraft:picnictable_dark": {
+		"sound": "wood"
+	},
+	"ghoulcraft:picnictable_jungle": {
+		"sound": "wood"
+	},
+	"ghoulcraft:picnictable_oak": {
+		"sound": "wood"
+	},
+	"ghoulcraft:picnictable_spruce": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sandcastle": {
+		"sound": "gravel"
+	},
+	"ghoulcraft:bucket_red": {
+		"sound": "metal"
+	},
+	"ghoulcraft:bucket_purple": {
+		"sound": "metal"
+	},
+	"ghoulcraft:bucket_blue": {
+		"sound": "metal"
+	},
+	"ghoulcraft:plastic_shovel1": {
+		"sound": "metal"
+	},
+	"ghoulcraft:plastic_shovel2": {
+		"sound": "metal"
+	},
+	"ghoulcraft:sandbox_acacia": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sandbox_birch": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sandbox_dark": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sandbox_jungle": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sandbox_oak": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sandbox_spruce": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sandbox_colorful": {
+		"sound": "wood"
+	},
+	"ghoulcraft:seesaw_colorful": {
+		"sound": "wood"
+	},
+	"ghoulcraft:seesaw_acacia": {
+		"sound": "wood"
+	},
+	"ghoulcraft:seesaw_birch": {
+		"sound": "wood"
+	},
+	"ghoulcraft:seesaw_dark": {
+		"sound": "wood"
+	},
+	"ghoulcraft:seesaw_jungle": {
+		"sound": "wood"
+	},
+	"ghoulcraft:seesaw_oak": {
+		"sound": "wood"
+	},
+	"ghoulcraft:seesaw_spruce": {
+		"sound": "wood"
+	},
+	"ghoulcraft:tent1_canvas": {
+		"sound": "cloth"
+	},
+	"ghoulcraft:tent1_green": {
+		"sound": "cloth"
+	}
+}
