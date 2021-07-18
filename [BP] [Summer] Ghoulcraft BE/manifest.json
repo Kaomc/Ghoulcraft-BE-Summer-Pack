@@ -1,19 +1,18 @@
-//bridge-file-version: #6
 {
 	"format_version": 2,
 	"header": {
-		"name": "[Summer] Ghoulcraft BE v1.0",
-		"description": "§l§3Ignore the warning! §r- Version: 1.0",
+		"name": "[Summer] Ghoulcraft BE v1.1-alt",
+		"description": "§l§3Ignore the warning! §r- Version: 1.1-alt",
 		"uuid": "0c9aee65-6086-4024-885b-c029e8c762dd",
 		"version": [
 			1,
-			0,
+			1,
 			0
 		],
 		"min_engine_version": [
 			1,
-			16,
-			200
+			13,
+			0
 		]
 	},
 	"modules": [
@@ -22,7 +21,7 @@
 			"uuid": "141bda83-bd2a-44e4-a6e3-df2330deb1f2",
 			"version": [
 				1,
-				0,
+				1,
 				0
 			]
 		}
@@ -31,7 +30,7 @@
 		{
 			"version": [
 				1,
-				0,
+				1,
 				0
 			],
 			"uuid": "478e4052-9435-4c04-ab3d-010cbe729df6"
